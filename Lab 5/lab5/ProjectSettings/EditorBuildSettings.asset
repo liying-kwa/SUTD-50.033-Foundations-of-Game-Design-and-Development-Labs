@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/MarioLevel2.unity
+    guid: 51bc3e431a41d1d45b6e962a26fd05b4
+  - enabled: 0
+    path: Assets/Scenes/MarioLevel1.unity
+    guid: 6fa0eb6d3bdb1fd4692a5eeda2bd1b1d
+  - enabled: 1
+    path: Assets/Scenes/MarioLevel1B.unity
+    guid: 45d80ef6df5ceb843ababd7ce660e5d2
+  - enabled: 1
+    path: Assets/Scenes/MarioLevel2B.unity
+    guid: 900c6a9f5de7d1846b6337d834aeaf42
+  m_configObjects: {}

@@ -1,0 +1,227 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 16238 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Li Ying/Documents/UNI/SUTD/WORK/Term 8/GDD (50.033 Foundations of Game Design and Development)/Labs/lab1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50779
+Successfully changed project path to: C:/Li Ying/Documents/UNI/SUTD/WORK/Term 8/GDD (50.033 Foundations of Game Design and Development)/Labs/lab1
+C:/Li Ying/Documents/UNI/SUTD/WORK/Term 8/GDD (50.033 Foundations of Game Design and Development)/Labs/lab1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 132.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Li Ying/Documents/UNI/SUTD/WORK/Term 8/GDD (50.033 Foundations of Game Design and Development)/Labs/lab1/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     8119 MB
+    Driver:   26.20.100.7812
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56404
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002244 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 114.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.625 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003946 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 98.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.259 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3374 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.3 MB.
+System memory in use after: 129.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3828.
+Total: 3.150400 ms (FindLiveObjects: 0.336100 ms CreateObjectMapping: 0.178800 ms MarkObjects: 2.483500 ms  DeleteObjects: 0.150500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/EnemyController.cs
+  artifactKey: Guid(558dacb11dbffa145ab8991d828e5555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyController.cs using Guid(558dacb11dbffa145ab8991d828e5555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4308d2d54b6c05edfd9c9ec5488c7ecb') in 0.062364 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Scripts/MenuController.cs
+  artifactKey: Guid(a080756585b519641b6caa10064d4d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MenuController.cs using Guid(a080756585b519641b6caa10064d4d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e99504bec014d760aed1d38066d2647e') in 0.008037 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003662 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.340 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.3 MB.
+System memory in use after: 129.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3832.
+Total: 3.604400 ms (FindLiveObjects: 0.351500 ms CreateObjectMapping: 0.175700 ms MarkObjects: 2.915600 ms  DeleteObjects: 0.160100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.762648 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(7703d7560be8df64aab120583b2bb0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(7703d7560be8df64aab120583b2bb0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26705acdd7fc09c288280379fc2d3566') in 0.018089 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007534 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.160 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.4 MB.
+System memory in use after: 129.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3836.
+Total: 3.029600 ms (FindLiveObjects: 0.352100 ms CreateObjectMapping: 0.173500 ms MarkObjects: 2.384600 ms  DeleteObjects: 0.117500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006216 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.258 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.4 MB.
+System memory in use after: 129.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3840.
+Total: 4.463200 ms (FindLiveObjects: 0.428700 ms CreateObjectMapping: 0.470100 ms MarkObjects: 3.449600 ms  DeleteObjects: 0.113400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.080761 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(7703d7560be8df64aab120583b2bb0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(7703d7560be8df64aab120583b2bb0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '641037d0e9a345bf10514590c116f1f4') in 0.009699 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004111 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.4 MB.
+System memory in use after: 129.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3844.
+Total: 3.371900 ms (FindLiveObjects: 0.500300 ms CreateObjectMapping: 0.353900 ms MarkObjects: 2.395500 ms  DeleteObjects: 0.121100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006760 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.198 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.4 MB.
+System memory in use after: 129.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3848.
+Total: 3.348200 ms (FindLiveObjects: 0.362700 ms CreateObjectMapping: 0.181900 ms MarkObjects: 2.673500 ms  DeleteObjects: 0.128800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003960 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Li Ying\Documents\UNI\SUTD\WORK\Term 8\GDD (50.033 Foundations of Game Design and Development)\Labs\lab1\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.250 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.4 MB.
+System memory in use after: 129.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3852.
+Total: 3.086200 ms (FindLiveObjects: 0.329200 ms CreateObjectMapping: 0.154500 ms MarkObjects: 2.463800 ms  DeleteObjects: 0.136800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

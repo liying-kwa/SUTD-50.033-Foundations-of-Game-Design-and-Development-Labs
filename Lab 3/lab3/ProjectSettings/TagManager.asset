@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Enemy
+  - Ground
+  - ShowOnGameover
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - BG0
+  - BG1
+  - BG2
+  - BG3
+  - BG4
+  - BG5
+  - BG6
+  - BG7
+  - BG8
+  - BG9
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2671229893
+    locked: 0
+  - name: Player
+    uniqueID: 3990935989
+    locked: 0
